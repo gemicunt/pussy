@@ -1,0 +1,5 @@
+{
+  "name": "P.U.S.S.Y.1.1.1 API Interface",
+  "description": "A web interface to interact with the P.U.S.S.Y.1.1.1 API, based on its Postman collection. Allows invocation of ritualistic commands with configurable parameters. WARNING: This application interacts with an API that uses sexually explicit terminology as part of its design. User discretion is advised.",
+  "requestFramePermissions": []
+}
